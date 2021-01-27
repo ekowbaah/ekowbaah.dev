@@ -40,7 +40,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-disqus`,
       options: {
-        shortname: `ekowbaah`
+        shortname: `your-discus-short-name`
       }
 
     }

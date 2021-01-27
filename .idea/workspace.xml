@@ -1,13 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="516e7d00-1500-496f-9813-bc047e2039da" name="Default Changelist" comment="" />
+    <list default="true" id="516e7d00-1500-496f-9813-bc047e2039da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/ekowbaah.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/starter-project-gatsby-strapi-portfolio-2020-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gatsby-browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gatsby-node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/hero-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/hero-img1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/projects-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/projects-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/projects-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/projects-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blogs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Hero.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Jobs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Project.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Projects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SEO.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Services.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Sidebar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Title.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/gatsby-fragments.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/links.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/services.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/socialLinks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/404.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/about.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/blog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/projects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/blog-template.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/twitter-img.png" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1nOngkEkh9RJ2LDMbvTkLb0Xl1o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,6 +74,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -46,6 +106,7 @@
       <workItem from="1611270119106" duration="9273000" />
       <workItem from="1611279823287" duration="706000" />
       <workItem from="1611283199806" duration="31481000" />
+      <workItem from="1611765602972" duration="404000" />
     </task>
     <servers />
   </component>
